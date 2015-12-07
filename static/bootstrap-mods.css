@@ -1,0 +1,33 @@
+/* color scheme
+blue:    #98C1D9
+purple:  #6969B3
+new-purple: #6363A8
+pink:    #FFA69E
+yellow:  #FAF3DD
+gray:    #5E6472
+*/
+
+h2 {
+    font-size: 300%;
+}
+
+body {
+    background-color: #990033;
+}
+
+.jumbotron {
+    color: #0A3200;
+    background-color: #669999;
+    padding-top: 0px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.control-label {
+    font-size: 150%;
+}
+
+hr {
+    margin-top: 0px;
+    border: none;
+}
